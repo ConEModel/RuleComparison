@@ -1,0 +1,3250 @@
+Threshold: 0.250 Min Confidence= 0.750
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.760
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.770
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.780
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.790
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.800
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.810
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.820
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.830
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.840
+True positive: 14
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.850
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.860
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.870
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.880
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.890
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.900
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.910
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.920
+True positive: 13
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.930
+True positive: 12
+False Positive= 4
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.940
+True positive: 11
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.950
+True positive: 11
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.960
+True positive: 9
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.970
+True positive: 9
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.980
+True positive: 9
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 0.990
+True positive: 9
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.250 Min Confidence= 1.000
+True positive: 4
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.750
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.760
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.770
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.780
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.790
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.800
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.810
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.820
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.830
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.840
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.850
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.860
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.870
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.880
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.890
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.900
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.910
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.920
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.930
+True positive: 16
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.940
+True positive: 15
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.950
+True positive: 15
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.960
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.970
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.980
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 0.990
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.240 Min Confidence= 1.000
+True positive: 5
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.750
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.760
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.770
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.780
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.790
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.800
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.810
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.820
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.830
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.840
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.850
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.860
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.870
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.880
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.890
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.900
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.910
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.920
+True positive: 17
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.930
+True positive: 16
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.940
+True positive: 15
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.950
+True positive: 15
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.960
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.970
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.980
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 0.990
+True positive: 13
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.230 Min Confidence= 1.000
+True positive: 5
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.750
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.760
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.770
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.780
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.790
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.800
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.810
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.820
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.830
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.840
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.850
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.860
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.870
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.880
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.890
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.900
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.910
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.920
+True positive: 38
+False Positive= 10
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.930
+True positive: 34
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.940
+True positive: 33
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.950
+True positive: 33
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.960
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.970
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.980
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 0.990
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.220 Min Confidence= 1.000
+True positive: 5
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.750
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.760
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.770
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.780
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.790
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.800
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.810
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.820
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.830
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.840
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.850
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.860
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.870
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.880
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.890
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.900
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.910
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.920
+True positive: 38
+False Positive= 10
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.930
+True positive: 34
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.940
+True positive: 33
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.950
+True positive: 33
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.960
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.970
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.980
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 0.990
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.210 Min Confidence= 1.000
+True positive: 5
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.750
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.760
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.770
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.780
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.790
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.800
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.810
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.820
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.830
+True positive: 42
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.840
+True positive: 42
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.850
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.860
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.870
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.880
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.890
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.900
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.910
+True positive: 41
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.920
+True positive: 38
+False Positive= 10
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.930
+True positive: 34
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.940
+True positive: 33
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.950
+True positive: 33
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.960
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.970
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.980
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 0.990
+True positive: 31
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.200 Min Confidence= 1.000
+True positive: 5
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.750
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.760
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.770
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.780
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.790
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.800
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.810
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.820
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.830
+True positive: 48
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.840
+True positive: 48
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.850
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.860
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.870
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.880
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.890
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.900
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.910
+True positive: 47
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.920
+True positive: 44
+False Positive= 10
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.930
+True positive: 40
+False Positive= 8
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.940
+True positive: 39
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.950
+True positive: 39
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.960
+True positive: 37
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.970
+True positive: 37
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.980
+True positive: 37
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 0.990
+True positive: 37
+False Positive= 5
+True negative= 0
+False negative= 0
+Threshold: 0.190 Min Confidence= 1.000
+True positive: 11
+False Positive= 3
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.750
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.760
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.770
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.780
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.790
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.800
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.810
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.820
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.830
+True positive: 48
+False Positive= 22
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.840
+True positive: 48
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.850
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.860
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.870
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.880
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.890
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.900
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.910
+True positive: 47
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.920
+True positive: 44
+False Positive= 17
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.930
+True positive: 40
+False Positive= 15
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.940
+True positive: 39
+False Positive= 14
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.950
+True positive: 39
+False Positive= 10
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.960
+True positive: 37
+False Positive= 12
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.970
+True positive: 37
+False Positive= 12
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.980
+True positive: 37
+False Positive= 12
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 0.990
+True positive: 37
+False Positive= 12
+True negative= 0
+False negative= 0
+Threshold: 0.180 Min Confidence= 1.000
+True positive: 11
+False Positive= 6
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.750
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.760
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.770
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.780
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.790
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.800
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.810
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.820
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.830
+True positive: 71
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.170 Min Confidence= 0.840
+True positive: 63
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.850
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.860
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.870
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.880
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.890
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.900
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.910
+True positive: 62
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.920
+True positive: 59
+False Positive= 10
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.930
+True positive: 55
+False Positive= 8
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.940
+True positive: 54
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.170 Min Confidence= 0.950
+True positive: 50
+False Positive= 7
+True negative= 0
+False negative= 12
+Threshold: 0.170 Min Confidence= 0.960
+True positive: 48
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.170 Min Confidence= 0.970
+True positive: 48
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.170 Min Confidence= 0.980
+True positive: 48
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.170 Min Confidence= 0.990
+True positive: 48
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.170 Min Confidence= 1.000
+True positive: 18
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.750
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.760
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.770
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.780
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.790
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.800
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.810
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.820
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.830
+True positive: 77
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.160 Min Confidence= 0.840
+True positive: 69
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.850
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.860
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.870
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.880
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.890
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.900
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.910
+True positive: 68
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.920
+True positive: 65
+False Positive= 10
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.930
+True positive: 61
+False Positive= 8
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.940
+True positive: 60
+False Positive= 7
+True negative= 0
+False negative= 8
+Threshold: 0.160 Min Confidence= 0.950
+True positive: 56
+False Positive= 7
+True negative= 0
+False negative= 12
+Threshold: 0.160 Min Confidence= 0.960
+True positive: 54
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.160 Min Confidence= 0.970
+True positive: 54
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.160 Min Confidence= 0.980
+True positive: 54
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.160 Min Confidence= 0.990
+True positive: 54
+False Positive= 9
+True negative= 0
+False negative= 12
+Threshold: 0.160 Min Confidence= 1.000
+True positive: 22
+False Positive= 7
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.750
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.760
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.770
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.780
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.790
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.800
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.810
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.820
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.830
+True positive: 78
+False Positive= 21
+True negative= 0
+False negative= 0
+Threshold: 0.150 Min Confidence= 0.840
+True positive: 70
+False Positive= 21
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.850
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.860
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.870
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.880
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.890
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.900
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.910
+True positive: 69
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.920
+True positive: 66
+False Positive= 16
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.930
+True positive: 62
+False Positive= 14
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.940
+True positive: 61
+False Positive= 13
+True negative= 0
+False negative= 8
+Threshold: 0.150 Min Confidence= 0.950
+True positive: 57
+False Positive= 13
+True negative= 0
+False negative= 12
+Threshold: 0.150 Min Confidence= 0.960
+True positive: 55
+False Positive= 15
+True negative= 0
+False negative= 12
+Threshold: 0.150 Min Confidence= 0.970
+True positive: 55
+False Positive= 15
+True negative= 0
+False negative= 12
+Threshold: 0.150 Min Confidence= 0.980
+True positive: 55
+False Positive= 15
+True negative= 0
+False negative= 12
+Threshold: 0.150 Min Confidence= 0.990
+True positive: 55
+False Positive= 15
+True negative= 0
+False negative= 12
+Threshold: 0.150 Min Confidence= 1.000
+True positive: 23
+False Positive= 13
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.750
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.760
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.770
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.780
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.790
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.800
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.810
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.820
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.830
+True positive: 160
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.140 Min Confidence= 0.840
+True positive: 152
+False Positive= 337
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.850
+True positive: 151
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.860
+True positive: 151
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.870
+True positive: 151
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.880
+True positive: 139
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.890
+True positive: 139
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.900
+True positive: 139
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.910
+True positive: 139
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.140 Min Confidence= 0.920
+True positive: 132
+False Positive= 328
+True negative= 0
+False negative= 12
+Threshold: 0.140 Min Confidence= 0.930
+True positive: 128
+False Positive= 326
+True negative= 0
+False negative= 12
+Threshold: 0.140 Min Confidence= 0.940
+True positive: 127
+False Positive= 325
+True negative= 0
+False negative= 12
+Threshold: 0.140 Min Confidence= 0.950
+True positive: 123
+False Positive= 325
+True negative= 0
+False negative= 16
+Threshold: 0.140 Min Confidence= 0.960
+True positive: 121
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.140 Min Confidence= 0.970
+True positive: 121
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.140 Min Confidence= 0.980
+True positive: 121
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.140 Min Confidence= 0.990
+True positive: 121
+False Positive= 323
+True negative= 0
+False negative= 16
+Threshold: 0.140 Min Confidence= 1.000
+True positive: 89
+False Positive= 301
+True negative= 0
+False negative= 4
+Threshold: 0.130 Min Confidence= 0.750
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.760
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.770
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.780
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.790
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.800
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.810
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.820
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.830
+True positive: 162
+False Positive= 338
+True negative= 0
+False negative= 0
+Threshold: 0.130 Min Confidence= 0.840
+True positive: 154
+False Positive= 338
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.850
+True positive: 153
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.860
+True positive: 153
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.870
+True positive: 153
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.880
+True positive: 141
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.890
+True positive: 141
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.900
+True positive: 141
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.910
+True positive: 141
+False Positive= 330
+True negative= 0
+False negative= 8
+Threshold: 0.130 Min Confidence= 0.920
+True positive: 134
+False Positive= 329
+True negative= 0
+False negative= 12
+Threshold: 0.130 Min Confidence= 0.930
+True positive: 130
+False Positive= 327
+True negative= 0
+False negative= 12
+Threshold: 0.130 Min Confidence= 0.940
+True positive: 129
+False Positive= 326
+True negative= 0
+False negative= 12
+Threshold: 0.130 Min Confidence= 0.950
+True positive: 125
+False Positive= 326
+True negative= 0
+False negative= 16
+Threshold: 0.130 Min Confidence= 0.960
+True positive: 123
+False Positive= 328
+True negative= 0
+False negative= 16
+Threshold: 0.130 Min Confidence= 0.970
+True positive: 123
+False Positive= 328
+True negative= 0
+False negative= 16
+Threshold: 0.130 Min Confidence= 0.980
+True positive: 123
+False Positive= 328
+True negative= 0
+False negative= 16
+Threshold: 0.130 Min Confidence= 0.990
+True positive: 123
+False Positive= 324
+True negative= 0
+False negative= 16
+Threshold: 0.130 Min Confidence= 1.000
+True positive: 89
+False Positive= 302
+True negative= 0
+False negative= 4
+Threshold: 0.120 Min Confidence= 0.750
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.760
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.770
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.780
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.790
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.800
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.810
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.820
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.830
+True positive: 225
+False Positive= 337
+True negative= 0
+False negative= 0
+Threshold: 0.120 Min Confidence= 0.840
+True positive: 217
+False Positive= 337
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.850
+True positive: 216
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.860
+True positive: 216
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.870
+True positive: 216
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.880
+True positive: 204
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.890
+True positive: 204
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.900
+True positive: 204
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.910
+True positive: 204
+False Positive= 329
+True negative= 0
+False negative= 8
+Threshold: 0.120 Min Confidence= 0.920
+True positive: 197
+False Positive= 328
+True negative= 0
+False negative= 12
+Threshold: 0.120 Min Confidence= 0.930
+True positive: 193
+False Positive= 326
+True negative= 0
+False negative= 12
+Threshold: 0.120 Min Confidence= 0.940
+True positive: 192
+False Positive= 325
+True negative= 0
+False negative= 12
+Threshold: 0.120 Min Confidence= 0.950
+True positive: 188
+False Positive= 325
+True negative= 0
+False negative= 16
+Threshold: 0.120 Min Confidence= 0.960
+True positive: 186
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.120 Min Confidence= 0.970
+True positive: 186
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.120 Min Confidence= 0.980
+True positive: 186
+False Positive= 327
+True negative= 0
+False negative= 16
+Threshold: 0.120 Min Confidence= 0.990
+True positive: 184
+False Positive= 323
+True negative= 0
+False negative= 18
+Threshold: 0.120 Min Confidence= 1.000
+True positive: 138
+False Positive= 305
+True negative= 0
+False negative= 4
+Threshold: 0.110 Min Confidence= 0.750
+True positive: 933
+False Positive= 962
+True negative= 0
+False negative= 16
+Threshold: 0.110 Min Confidence= 0.760
+True positive: 933
+False Positive= 962
+True negative= 0
+False negative= 16
+Threshold: 0.110 Min Confidence= 0.770
+True positive: 933
+False Positive= 962
+True negative= 0
+False negative= 16
+Threshold: 0.110 Min Confidence= 0.780
+True positive: 933
+False Positive= 962
+True negative= 0
+False negative= 16
+Threshold: 0.110 Min Confidence= 0.790
+True positive: 933
+False Positive= 942
+True negative= 0
+False negative= 16
+Threshold: 0.110 Min Confidence= 0.800
+True positive: 757
+False Positive= 706
+True negative= 0
+False negative= 112
+Threshold: 0.110 Min Confidence= 0.810
+True positive: 757
+False Positive= 706
+True negative= 0
+False negative= 112
+Threshold: 0.110 Min Confidence= 0.820
+True positive: 757
+False Positive= 706
+True negative= 0
+False negative= 112
+Threshold: 0.110 Min Confidence= 0.830
+True positive: 757
+False Positive= 706
+True negative= 0
+False negative= 112
+Threshold: 0.110 Min Confidence= 0.840
+True positive: 749
+False Positive= 706
+True negative= 0
+False negative= 120
+Threshold: 0.110 Min Confidence= 0.850
+True positive: 728
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.860
+True positive: 712
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.870
+True positive: 712
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.880
+True positive: 700
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.890
+True positive: 700
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.900
+True positive: 700
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.910
+True positive: 700
+False Positive= 706
+True negative= 0
+False negative= 128
+Threshold: 0.110 Min Confidence= 0.920
+True positive: 689
+False Positive= 709
+True negative= 0
+False negative= 136
+Threshold: 0.110 Min Confidence= 0.930
+True positive: 685
+False Positive= 707
+True negative= 0
+False negative= 136
+Threshold: 0.110 Min Confidence= 0.940
+True positive: 684
+False Positive= 706
+True negative= 0
+False negative= 136
+Threshold: 0.110 Min Confidence= 0.950
+True positive: 680
+False Positive= 706
+True negative= 0
+False negative= 140
+Threshold: 0.110 Min Confidence= 0.960
+True positive: 678
+False Positive= 708
+True negative= 0
+False negative= 140
+Threshold: 0.110 Min Confidence= 0.970
+True positive: 678
+False Positive= 708
+True negative= 0
+False negative= 140
+Threshold: 0.110 Min Confidence= 0.980
+True positive: 678
+False Positive= 708
+True negative= 0
+False negative= 140
+Threshold: 0.110 Min Confidence= 0.990
+True positive: 676
+False Positive= 704
+True negative= 0
+False negative= 142
+Threshold: 0.110 Min Confidence= 1.000
+True positive: 522
+False Positive= 528
+True negative= 0
+False negative= 180
+Threshold: 0.100 Min Confidence= 0.750
+True positive: 960
+False Positive= 1037
+True negative= 0
+False negative= 16
+Threshold: 0.100 Min Confidence= 0.760
+True positive: 960
+False Positive= 1037
+True negative= 0
+False negative= 16
+Threshold: 0.100 Min Confidence= 0.770
+True positive: 960
+False Positive= 1037
+True negative= 0
+False negative= 16
+Threshold: 0.100 Min Confidence= 0.780
+True positive: 960
+False Positive= 1037
+True negative= 0
+False negative= 16
+Threshold: 0.100 Min Confidence= 0.790
+True positive: 960
+False Positive= 1017
+True negative= 0
+False negative= 16
+Threshold: 0.100 Min Confidence= 0.800
+True positive: 784
+False Positive= 781
+True negative= 0
+False negative= 112
+Threshold: 0.100 Min Confidence= 0.810
+True positive: 784
+False Positive= 781
+True negative= 0
+False negative= 112
+Threshold: 0.100 Min Confidence= 0.820
+True positive: 784
+False Positive= 781
+True negative= 0
+False negative= 112
+Threshold: 0.100 Min Confidence= 0.830
+True positive: 784
+False Positive= 781
+True negative= 0
+False negative= 112
+Threshold: 0.100 Min Confidence= 0.840
+True positive: 776
+False Positive= 781
+True negative= 0
+False negative= 120
+Threshold: 0.100 Min Confidence= 0.850
+True positive: 755
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.860
+True positive: 739
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.870
+True positive: 739
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.880
+True positive: 727
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.890
+True positive: 727
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.900
+True positive: 727
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.910
+True positive: 727
+False Positive= 781
+True negative= 0
+False negative= 128
+Threshold: 0.100 Min Confidence= 0.920
+True positive: 716
+False Positive= 784
+True negative= 0
+False negative= 136
+Threshold: 0.100 Min Confidence= 0.930
+True positive: 712
+False Positive= 782
+True negative= 0
+False negative= 136
+Threshold: 0.100 Min Confidence= 0.940
+True positive: 711
+False Positive= 781
+True negative= 0
+False negative= 136
+Threshold: 0.100 Min Confidence= 0.950
+True positive: 707
+False Positive= 781
+True negative= 0
+False negative= 140
+Threshold: 0.100 Min Confidence= 0.960
+True positive: 705
+False Positive= 783
+True negative= 0
+False negative= 140
+Threshold: 0.100 Min Confidence= 0.970
+True positive: 705
+False Positive= 783
+True negative= 0
+False negative= 140
+Threshold: 0.100 Min Confidence= 0.980
+True positive: 705
+False Positive= 783
+True negative= 0
+False negative= 140
+Threshold: 0.100 Min Confidence= 0.990
+True positive: 697
+False Positive= 779
+True negative= 0
+False negative= 148
+Threshold: 0.100 Min Confidence= 1.000
+True positive: 538
+False Positive= 595
+True negative= 0
+False negative= 187
+Threshold: 0.090 Min Confidence= 0.750
+True positive: 963
+False Positive= 1041
+True negative= 0
+False negative= 16
+Threshold: 0.090 Min Confidence= 0.760
+True positive: 963
+False Positive= 1041
+True negative= 0
+False negative= 16
+Threshold: 0.090 Min Confidence= 0.770
+True positive: 963
+False Positive= 1041
+True negative= 0
+False negative= 16
+Threshold: 0.090 Min Confidence= 0.780
+True positive: 963
+False Positive= 1041
+True negative= 0
+False negative= 16
+Threshold: 0.090 Min Confidence= 0.790
+True positive: 963
+False Positive= 1021
+True negative= 0
+False negative= 16
+Threshold: 0.090 Min Confidence= 0.800
+True positive: 787
+False Positive= 785
+True negative= 0
+False negative= 112
+Threshold: 0.090 Min Confidence= 0.810
+True positive: 787
+False Positive= 785
+True negative= 0
+False negative= 112
+Threshold: 0.090 Min Confidence= 0.820
+True positive: 787
+False Positive= 785
+True negative= 0
+False negative= 112
+Threshold: 0.090 Min Confidence= 0.830
+True positive: 787
+False Positive= 785
+True negative= 0
+False negative= 112
+Threshold: 0.090 Min Confidence= 0.840
+True positive: 779
+False Positive= 785
+True negative= 0
+False negative= 120
+Threshold: 0.090 Min Confidence= 0.850
+True positive: 758
+False Positive= 785
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.860
+True positive: 742
+False Positive= 785
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.870
+True positive: 740
+False Positive= 787
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.880
+True positive: 728
+False Positive= 787
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.890
+True positive: 728
+False Positive= 787
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.900
+True positive: 728
+False Positive= 787
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.910
+True positive: 728
+False Positive= 787
+True negative= 0
+False negative= 128
+Threshold: 0.090 Min Confidence= 0.920
+True positive: 717
+False Positive= 790
+True negative= 0
+False negative= 136
+Threshold: 0.090 Min Confidence= 0.930
+True positive: 713
+False Positive= 788
+True negative= 0
+False negative= 136
+Threshold: 0.090 Min Confidence= 0.940
+True positive: 712
+False Positive= 787
+True negative= 0
+False negative= 136
+Threshold: 0.090 Min Confidence= 0.950
+True positive: 708
+False Positive= 787
+True negative= 0
+False negative= 140
+Threshold: 0.090 Min Confidence= 0.960
+True positive: 706
+False Positive= 789
+True negative= 0
+False negative= 140
+Threshold: 0.090 Min Confidence= 0.970
+True positive: 706
+False Positive= 789
+True negative= 0
+False negative= 140
+Threshold: 0.090 Min Confidence= 0.980
+True positive: 706
+False Positive= 789
+True negative= 0
+False negative= 140
+Threshold: 0.090 Min Confidence= 0.990
+True positive: 698
+False Positive= 785
+True negative= 0
+False negative= 148
+Threshold: 0.090 Min Confidence= 1.000
+True positive: 539
+False Positive= 601
+True negative= 0
+False negative= 187
+Threshold: 0.080 Min Confidence= 0.750
+True positive: 980
+False Positive= 1038
+True negative= 0
+False negative= 16
+Threshold: 0.080 Min Confidence= 0.760
+True positive: 980
+False Positive= 1038
+True negative= 0
+False negative= 16
+Threshold: 0.080 Min Confidence= 0.770
+True positive: 980
+False Positive= 1038
+True negative= 0
+False negative= 16
+Threshold: 0.080 Min Confidence= 0.780
+True positive: 980
+False Positive= 1038
+True negative= 0
+False negative= 16
+Threshold: 0.080 Min Confidence= 0.790
+True positive: 980
+False Positive= 1018
+True negative= 0
+False negative= 16
+Threshold: 0.080 Min Confidence= 0.800
+True positive: 804
+False Positive= 782
+True negative= 0
+False negative= 112
+Threshold: 0.080 Min Confidence= 0.810
+True positive: 804
+False Positive= 782
+True negative= 0
+False negative= 112
+Threshold: 0.080 Min Confidence= 0.820
+True positive: 804
+False Positive= 782
+True negative= 0
+False negative= 112
+Threshold: 0.080 Min Confidence= 0.830
+True positive: 804
+False Positive= 782
+True negative= 0
+False negative= 112
+Threshold: 0.080 Min Confidence= 0.840
+True positive: 796
+False Positive= 782
+True negative= 0
+False negative= 120
+Threshold: 0.080 Min Confidence= 0.850
+True positive: 775
+False Positive= 782
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.860
+True positive: 759
+False Positive= 782
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.870
+True positive: 757
+False Positive= 784
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.880
+True positive: 745
+False Positive= 784
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.890
+True positive: 745
+False Positive= 784
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.900
+True positive: 745
+False Positive= 784
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.910
+True positive: 745
+False Positive= 784
+True negative= 0
+False negative= 128
+Threshold: 0.080 Min Confidence= 0.920
+True positive: 734
+False Positive= 787
+True negative= 0
+False negative= 136
+Threshold: 0.080 Min Confidence= 0.930
+True positive: 730
+False Positive= 785
+True negative= 0
+False negative= 136
+Threshold: 0.080 Min Confidence= 0.940
+True positive: 729
+False Positive= 784
+True negative= 0
+False negative= 136
+Threshold: 0.080 Min Confidence= 0.950
+True positive: 725
+False Positive= 784
+True negative= 0
+False negative= 140
+Threshold: 0.080 Min Confidence= 0.960
+True positive: 723
+False Positive= 786
+True negative= 0
+False negative= 140
+Threshold: 0.080 Min Confidence= 0.970
+True positive: 723
+False Positive= 786
+True negative= 0
+False negative= 140
+Threshold: 0.080 Min Confidence= 0.980
+True positive: 723
+False Positive= 786
+True negative= 0
+False negative= 140
+Threshold: 0.080 Min Confidence= 0.990
+True positive: 715
+False Positive= 782
+True negative= 0
+False negative= 148
+Threshold: 0.080 Min Confidence= 1.000
+True positive: 556
+False Positive= 598
+True negative= 0
+False negative= 187
+Threshold: 0.070 Min Confidence= 0.750
+True positive: 1297
+False Positive= 1065
+True negative= 0
+False negative= 16
+Threshold: 0.070 Min Confidence= 0.760
+True positive: 1297
+False Positive= 1065
+True negative= 0
+False negative= 16
+Threshold: 0.070 Min Confidence= 0.770
+True positive: 1297
+False Positive= 1065
+True negative= 0
+False negative= 16
+Threshold: 0.070 Min Confidence= 0.780
+True positive: 1297
+False Positive= 1065
+True negative= 0
+False negative= 16
+Threshold: 0.070 Min Confidence= 0.790
+True positive: 1297
+False Positive= 1045
+True negative= 0
+False negative= 16
+Threshold: 0.070 Min Confidence= 0.800
+True positive: 1121
+False Positive= 809
+True negative= 0
+False negative= 112
+Threshold: 0.070 Min Confidence= 0.810
+True positive: 1121
+False Positive= 809
+True negative= 0
+False negative= 112
+Threshold: 0.070 Min Confidence= 0.820
+True positive: 1121
+False Positive= 809
+True negative= 0
+False negative= 112
+Threshold: 0.070 Min Confidence= 0.830
+True positive: 1121
+False Positive= 809
+True negative= 0
+False negative= 112
+Threshold: 0.070 Min Confidence= 0.840
+True positive: 1113
+False Positive= 809
+True negative= 0
+False negative= 120
+Threshold: 0.070 Min Confidence= 0.850
+True positive: 1088
+False Positive= 805
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.860
+True positive: 1072
+False Positive= 805
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.870
+True positive: 1070
+False Positive= 807
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.880
+True positive: 1058
+False Positive= 807
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.890
+True positive: 1058
+False Positive= 807
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.900
+True positive: 1058
+False Positive= 807
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.910
+True positive: 1058
+False Positive= 807
+True negative= 0
+False negative= 128
+Threshold: 0.070 Min Confidence= 0.920
+True positive: 1047
+False Positive= 810
+True negative= 0
+False negative= 136
+Threshold: 0.070 Min Confidence= 0.930
+True positive: 1043
+False Positive= 808
+True negative= 0
+False negative= 136
+Threshold: 0.070 Min Confidence= 0.940
+True positive: 1042
+False Positive= 807
+True negative= 0
+False negative= 136
+Threshold: 0.070 Min Confidence= 0.950
+True positive: 1038
+False Positive= 807
+True negative= 0
+False negative= 140
+Threshold: 0.070 Min Confidence= 0.960
+True positive: 1036
+False Positive= 809
+True negative= 0
+False negative= 140
+Threshold: 0.070 Min Confidence= 0.970
+True positive: 1036
+False Positive= 809
+True negative= 0
+False negative= 140
+Threshold: 0.070 Min Confidence= 0.980
+True positive: 1036
+False Positive= 809
+True negative= 0
+False negative= 140
+Threshold: 0.070 Min Confidence= 0.990
+True positive: 1028
+False Positive= 799
+True negative= 0
+False negative= 148
+Threshold: 0.070 Min Confidence= 1.000
+True positive: 787
+False Positive= 603
+True negative= 0
+False negative= 187
+Threshold: 0.060 Min Confidence= 0.750
+True positive: 1358
+False Positive= 1057
+True negative= 0
+False negative= 16
+Threshold: 0.060 Min Confidence= 0.760
+True positive: 1358
+False Positive= 1057
+True negative= 0
+False negative= 16
+Threshold: 0.060 Min Confidence= 0.770
+True positive: 1358
+False Positive= 1057
+True negative= 0
+False negative= 16
+Threshold: 0.060 Min Confidence= 0.780
+True positive: 1358
+False Positive= 1057
+True negative= 0
+False negative= 16
+Threshold: 0.060 Min Confidence= 0.790
+True positive: 1358
+False Positive= 1037
+True negative= 0
+False negative= 16
+Threshold: 0.060 Min Confidence= 0.800
+True positive: 1182
+False Positive= 801
+True negative= 0
+False negative= 112
+Threshold: 0.060 Min Confidence= 0.810
+True positive: 1182
+False Positive= 801
+True negative= 0
+False negative= 112
+Threshold: 0.060 Min Confidence= 0.820
+True positive: 1182
+False Positive= 801
+True negative= 0
+False negative= 112
+Threshold: 0.060 Min Confidence= 0.830
+True positive: 1182
+False Positive= 801
+True negative= 0
+False negative= 112
+Threshold: 0.060 Min Confidence= 0.840
+True positive: 1174
+False Positive= 801
+True negative= 0
+False negative= 120
+Threshold: 0.060 Min Confidence= 0.850
+True positive: 1149
+False Positive= 797
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.860
+True positive: 1133
+False Positive= 797
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.870
+True positive: 1131
+False Positive= 799
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.880
+True positive: 1119
+False Positive= 799
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.890
+True positive: 1119
+False Positive= 799
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.900
+True positive: 1119
+False Positive= 799
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.910
+True positive: 1119
+False Positive= 799
+True negative= 0
+False negative= 128
+Threshold: 0.060 Min Confidence= 0.920
+True positive: 1108
+False Positive= 802
+True negative= 0
+False negative= 136
+Threshold: 0.060 Min Confidence= 0.930
+True positive: 1104
+False Positive= 800
+True negative= 0
+False negative= 136
+Threshold: 0.060 Min Confidence= 0.940
+True positive: 1103
+False Positive= 799
+True negative= 0
+False negative= 136
+Threshold: 0.060 Min Confidence= 0.950
+True positive: 1099
+False Positive= 799
+True negative= 0
+False negative= 140
+Threshold: 0.060 Min Confidence= 0.960
+True positive: 1097
+False Positive= 801
+True negative= 0
+False negative= 140
+Threshold: 0.060 Min Confidence= 0.970
+True positive: 1097
+False Positive= 801
+True negative= 0
+False negative= 140
+Threshold: 0.060 Min Confidence= 0.980
+True positive: 1093
+False Positive= 805
+True negative= 0
+False negative= 140
+Threshold: 0.060 Min Confidence= 0.990
+True positive: 1067
+False Positive= 801
+True negative= 0
+False negative= 160
+Threshold: 0.060 Min Confidence= 1.000
+True positive: 794
+False Positive= 601
+True negative= 0
+False negative= 205
+Threshold: 0.050 Min Confidence= 0.750
+True positive: 4979
+False Positive= 1940
+True negative= 0
+False negative= 16
+Threshold: 0.050 Min Confidence= 0.760
+True positive: 4979
+False Positive= 1940
+True negative= 0
+False negative= 16
+Threshold: 0.050 Min Confidence= 0.770
+True positive: 4979
+False Positive= 1940
+True negative= 0
+False negative= 16
+Threshold: 0.050 Min Confidence= 0.780
+True positive: 4979
+False Positive= 1940
+True negative= 0
+False negative= 16
+Threshold: 0.050 Min Confidence= 0.790
+True positive: 4647
+False Positive= 1920
+True negative= 0
+False negative= 16
+Threshold: 0.050 Min Confidence= 0.800
+True positive: 4441
+False Positive= 1690
+True negative= 0
+False negative= 112
+Threshold: 0.050 Min Confidence= 0.810
+True positive: 4427
+False Positive= 1692
+True negative= 0
+False negative= 112
+Threshold: 0.050 Min Confidence= 0.820
+True positive: 4427
+False Positive= 1692
+True negative= 0
+False negative= 112
+Threshold: 0.050 Min Confidence= 0.830
+True positive: 4427
+False Positive= 1692
+True negative= 0
+False negative= 112
+Threshold: 0.050 Min Confidence= 0.840
+True positive: 4419
+False Positive= 1692
+True negative= 0
+False negative= 120
+Threshold: 0.050 Min Confidence= 0.850
+True positive: 4394
+False Positive= 1688
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.860
+True positive: 4378
+False Positive= 1688
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.870
+True positive: 4376
+False Positive= 1690
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.880
+True positive: 4364
+False Positive= 1690
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.890
+True positive: 4364
+False Positive= 1690
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.900
+True positive: 4364
+False Positive= 1690
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.910
+True positive: 4364
+False Positive= 1690
+True negative= 0
+False negative= 128
+Threshold: 0.050 Min Confidence= 0.920
+True positive: 4353
+False Positive= 1693
+True negative= 0
+False negative= 136
+Threshold: 0.050 Min Confidence= 0.930
+True positive: 4349
+False Positive= 1691
+True negative= 0
+False negative= 136
+Threshold: 0.050 Min Confidence= 0.940
+True positive: 4348
+False Positive= 1690
+True negative= 0
+False negative= 136
+Threshold: 0.050 Min Confidence= 0.950
+True positive: 4344
+False Positive= 1690
+True negative= 0
+False negative= 140
+Threshold: 0.050 Min Confidence= 0.960
+True positive: 4342
+False Positive= 1692
+True negative= 0
+False negative= 140
+Threshold: 0.050 Min Confidence= 0.970
+True positive: 4326
+False Positive= 1692
+True negative= 0
+False negative= 156
+Threshold: 0.050 Min Confidence= 0.980
+True positive: 4254
+False Positive= 1696
+True negative= 0
+False negative= 224
+Threshold: 0.050 Min Confidence= 0.990
+True positive: 4116
+False Positive= 1692
+True negative= 0
+False negative= 308
+Threshold: 0.050 Min Confidence= 1.000
+True positive: 2869
+False Positive= 1504
+True negative= 0
+False negative= 307
+Threshold: 0.040 Min Confidence= 0.750
+True positive: 5309
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.040 Min Confidence= 0.760
+True positive: 5309
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.040 Min Confidence= 0.770
+True positive: 5309
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.040 Min Confidence= 0.780
+True positive: 5309
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.040 Min Confidence= 0.790
+True positive: 4977
+False Positive= 2272
+True negative= 0
+False negative= 16
+Threshold: 0.040 Min Confidence= 0.800
+True positive: 4771
+False Positive= 2042
+True negative= 0
+False negative= 112
+Threshold: 0.040 Min Confidence= 0.810
+True positive: 4757
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.040 Min Confidence= 0.820
+True positive: 4757
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.040 Min Confidence= 0.830
+True positive: 4757
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.040 Min Confidence= 0.840
+True positive: 4749
+False Positive= 2044
+True negative= 0
+False negative= 120
+Threshold: 0.040 Min Confidence= 0.850
+True positive: 4724
+False Positive= 2040
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.860
+True positive: 4708
+False Positive= 2040
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.870
+True positive: 4706
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.880
+True positive: 4694
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.890
+True positive: 4694
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.900
+True positive: 4694
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.910
+True positive: 4694
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.040 Min Confidence= 0.920
+True positive: 4683
+False Positive= 2045
+True negative= 0
+False negative= 136
+Threshold: 0.040 Min Confidence= 0.930
+True positive: 4679
+False Positive= 2043
+True negative= 0
+False negative= 136
+Threshold: 0.040 Min Confidence= 0.940
+True positive: 4678
+False Positive= 2042
+True negative= 0
+False negative= 136
+Threshold: 0.040 Min Confidence= 0.950
+True positive: 4674
+False Positive= 2042
+True negative= 0
+False negative= 140
+Threshold: 0.040 Min Confidence= 0.960
+True positive: 4672
+False Positive= 2044
+True negative= 0
+False negative= 140
+Threshold: 0.040 Min Confidence= 0.970
+True positive: 4656
+False Positive= 2044
+True negative= 0
+False negative= 156
+Threshold: 0.040 Min Confidence= 0.980
+True positive: 4584
+False Positive= 2048
+True negative= 0
+False negative= 224
+Threshold: 0.040 Min Confidence= 0.990
+True positive: 4446
+False Positive= 2043
+True negative= 0
+False negative= 308
+Threshold: 0.040 Min Confidence= 1.000
+True positive: 3199
+False Positive= 1855
+True negative= 0
+False negative= 307
+Threshold: 0.030 Min Confidence= 0.750
+True positive: 5315
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.030 Min Confidence= 0.760
+True positive: 5315
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.030 Min Confidence= 0.770
+True positive: 5315
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.030 Min Confidence= 0.780
+True positive: 5315
+False Positive= 2292
+True negative= 0
+False negative= 16
+Threshold: 0.030 Min Confidence= 0.790
+True positive: 4983
+False Positive= 2272
+True negative= 0
+False negative= 16
+Threshold: 0.030 Min Confidence= 0.800
+True positive: 4777
+False Positive= 2042
+True negative= 0
+False negative= 112
+Threshold: 0.030 Min Confidence= 0.810
+True positive: 4763
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.030 Min Confidence= 0.820
+True positive: 4763
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.030 Min Confidence= 0.830
+True positive: 4763
+False Positive= 2044
+True negative= 0
+False negative= 112
+Threshold: 0.030 Min Confidence= 0.840
+True positive: 4755
+False Positive= 2044
+True negative= 0
+False negative= 120
+Threshold: 0.030 Min Confidence= 0.850
+True positive: 4730
+False Positive= 2040
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.860
+True positive: 4714
+False Positive= 2040
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.870
+True positive: 4712
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.880
+True positive: 4700
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.890
+True positive: 4700
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.900
+True positive: 4700
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.910
+True positive: 4700
+False Positive= 2042
+True negative= 0
+False negative= 128
+Threshold: 0.030 Min Confidence= 0.920
+True positive: 4689
+False Positive= 2045
+True negative= 0
+False negative= 136
+Threshold: 0.030 Min Confidence= 0.930
+True positive: 4685
+False Positive= 2043
+True negative= 0
+False negative= 136
+Threshold: 0.030 Min Confidence= 0.940
+True positive: 4684
+False Positive= 2042
+True negative= 0
+False negative= 136
+Threshold: 0.030 Min Confidence= 0.950
+True positive: 4680
+False Positive= 2042
+True negative= 0
+False negative= 140
+Threshold: 0.030 Min Confidence= 0.960
+True positive: 4678
+False Positive= 2044
+True negative= 0
+False negative= 140
+Threshold: 0.030 Min Confidence= 0.970
+True positive: 4662
+False Positive= 2044
+True negative= 0
+False negative= 156
+Threshold: 0.030 Min Confidence= 0.980
+True positive: 4590
+False Positive= 2048
+True negative= 0
+False negative= 224
+Threshold: 0.030 Min Confidence= 0.990
+True positive: 4452
+False Positive= 2043
+True negative= 0
+False negative= 308
+Threshold: 0.030 Min Confidence= 1.000
+True positive: 3205
+False Positive= 1855
+True negative= 0
+False negative= 307
+Threshold: 0.020 Min Confidence= 0.750
+True positive: 5513
+False Positive= 2960
+True negative= 0
+False negative= 28
+Threshold: 0.020 Min Confidence= 0.760
+True positive: 5513
+False Positive= 2960
+True negative= 0
+False negative= 28
+Threshold: 0.020 Min Confidence= 0.770
+True positive: 5513
+False Positive= 2960
+True negative= 0
+False negative= 28
+Threshold: 0.020 Min Confidence= 0.780
+True positive: 5513
+False Positive= 2960
+True negative= 0
+False negative= 28
+Threshold: 0.020 Min Confidence= 0.790
+True positive: 5181
+False Positive= 2940
+True negative= 0
+False negative= 28
+Threshold: 0.020 Min Confidence= 0.800
+True positive: 4975
+False Positive= 2710
+True negative= 0
+False negative= 124
+Threshold: 0.020 Min Confidence= 0.810
+True positive: 4961
+False Positive= 2712
+True negative= 0
+False negative= 124
+Threshold: 0.020 Min Confidence= 0.820
+True positive: 4961
+False Positive= 2712
+True negative= 0
+False negative= 124
+Threshold: 0.020 Min Confidence= 0.830
+True positive: 4961
+False Positive= 2712
+True negative= 0
+False negative= 124
+Threshold: 0.020 Min Confidence= 0.840
+True positive: 4953
+False Positive= 2712
+True negative= 0
+False negative= 132
+Threshold: 0.020 Min Confidence= 0.850
+True positive: 4928
+False Positive= 2708
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.860
+True positive: 4912
+False Positive= 2708
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.870
+True positive: 4910
+False Positive= 2710
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.880
+True positive: 4898
+False Positive= 2710
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.890
+True positive: 4898
+False Positive= 2710
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.900
+True positive: 4898
+False Positive= 2710
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.910
+True positive: 4898
+False Positive= 2710
+True negative= 0
+False negative= 140
+Threshold: 0.020 Min Confidence= 0.920
+True positive: 4887
+False Positive= 2713
+True negative= 0
+False negative= 148
+Threshold: 0.020 Min Confidence= 0.930
+True positive: 4883
+False Positive= 2711
+True negative= 0
+False negative= 148
+Threshold: 0.020 Min Confidence= 0.940
+True positive: 4882
+False Positive= 2710
+True negative= 0
+False negative= 148
+Threshold: 0.020 Min Confidence= 0.950
+True positive: 4878
+False Positive= 2710
+True negative= 0
+False negative= 152
+Threshold: 0.020 Min Confidence= 0.960
+True positive: 4876
+False Positive= 2712
+True negative= 0
+False negative= 152
+Threshold: 0.020 Min Confidence= 0.970
+True positive: 4860
+False Positive= 2696
+True negative= 0
+False negative= 168
+Threshold: 0.020 Min Confidence= 0.980
+True positive: 4788
+False Positive= 2700
+True negative= 0
+False negative= 236
+Threshold: 0.020 Min Confidence= 0.990
+True positive: 4634
+False Positive= 2622
+True negative= 0
+False negative= 320
+Threshold: 0.020 Min Confidence= 1.000
+True positive: 3387
+False Positive= 2426
+True negative= 0
+False negative= 319
+Threshold: 0.010 Min Confidence= 0.750
+True positive: 6012
+False Positive= 3027
+True negative= 0
+False negative= 28
+Threshold: 0.010 Min Confidence= 0.760
+True positive: 6012
+False Positive= 3027
+True negative= 0
+False negative= 28
+Threshold: 0.010 Min Confidence= 0.770
+True positive: 6012
+False Positive= 3027
+True negative= 0
+False negative= 28
+Threshold: 0.010 Min Confidence= 0.780
+True positive: 6012
+False Positive= 3027
+True negative= 0
+False negative= 28
+Threshold: 0.010 Min Confidence= 0.790
+True positive: 5680
+False Positive= 3007
+True negative= 0
+False negative= 28
+Threshold: 0.010 Min Confidence= 0.800
+True positive: 5474
+False Positive= 2777
+True negative= 0
+False negative= 124
+Threshold: 0.010 Min Confidence= 0.810
+True positive: 5460
+False Positive= 2779
+True negative= 0
+False negative= 124
+Threshold: 0.010 Min Confidence= 0.820
+True positive: 5460
+False Positive= 2779
+True negative= 0
+False negative= 124
+Threshold: 0.010 Min Confidence= 0.830
+True positive: 5460
+False Positive= 2779
+True negative= 0
+False negative= 124
+Threshold: 0.010 Min Confidence= 0.840
+True positive: 5452
+False Positive= 2779
+True negative= 0
+False negative= 132
+Threshold: 0.010 Min Confidence= 0.850
+True positive: 5427
+False Positive= 2775
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.860
+True positive: 5411
+False Positive= 2775
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.870
+True positive: 5406
+False Positive= 2777
+True negative= 0
+False negative= 143
+Threshold: 0.010 Min Confidence= 0.880
+True positive: 5394
+False Positive= 2777
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.890
+True positive: 5394
+False Positive= 2777
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.900
+True positive: 5394
+False Positive= 2777
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.910
+True positive: 5394
+False Positive= 2777
+True negative= 0
+False negative= 140
+Threshold: 0.010 Min Confidence= 0.920
+True positive: 5383
+False Positive= 2780
+True negative= 0
+False negative= 148
+Threshold: 0.010 Min Confidence= 0.930
+True positive: 5379
+False Positive= 2778
+True negative= 0
+False negative= 148
+Threshold: 0.010 Min Confidence= 0.940
+True positive: 5378
+False Positive= 2777
+True negative= 0
+False negative= 148
+Threshold: 0.010 Min Confidence= 0.950
+True positive: 5373
+False Positive= 2776
+True negative= 0
+False negative= 152
+Threshold: 0.010 Min Confidence= 0.960
+True positive: 5371
+False Positive= 2778
+True negative= 0
+False negative= 152
+Threshold: 0.010 Min Confidence= 0.970
+True positive: 5353
+False Positive= 2762
+True negative= 0
+False negative= 168
+Threshold: 0.010 Min Confidence= 0.980
+True positive: 5281
+False Positive= 2764
+True negative= 0
+False negative= 236
+Threshold: 0.010 Min Confidence= 0.990
+True positive: 5121
+False Positive= 2686
+True negative= 0
+False negative= 320
+Threshold: 0.010 Min Confidence= 1.000
+True positive: 3874
+False Positive= 2490
+True negative= 0
+False negative= 319
